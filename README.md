@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 6 problems · 0 labs · 3 math
+**10** solved · 6 problems · 0 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-28 | [solution](math/0010-matrix-multiplication) |
 | [Missing-Data Mechanisms: MCAR, MAR, NMAR and the Bias of Mean Imputation](https://www.deep-ml.com/math-problems/354) | medium | 2026-11-21 | [solution](math/0354-missing-data-mechanisms-mcar-mar-nmar-and-the-bias-of-mean-imputation) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-11-22 | [solution](math/0031-regularization-and-generalization) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-11-22 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
