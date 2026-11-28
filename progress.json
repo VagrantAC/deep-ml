@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:43:43.952Z",
+  "generated_at": "2026-11-28T13:47:09.505Z",
   "items": {
     "math:354": {
       "kind": "math",
@@ -207,6 +207,19 @@
       "path": "math/0412-condition-numbers-why-the-determinant-lies-about-near-singularity",
       "first_solved_at": "2026-11-28T06:43:39.316Z",
       "last_pushed_at": "2026-11-28T06:43:39.316Z"
+    },
+    "problem:1776": {
+      "kind": "problem",
+      "id": "1776",
+      "title": "Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1776",
+      "path": "problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling",
+      "first_solved_at": "2026-11-28T13:47:08.911Z",
+      "last_pushed_at": "2026-11-28T13:47:08.911Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
