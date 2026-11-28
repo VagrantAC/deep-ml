@@ -2,10 +2,8 @@ import numpy as np
 
 def online_simple_regression(xs, ys):
     # return (N, 2) array of (w0, w1) after each point
-    w_res = [[ys[0], 0]]
+    w_res = []
     for n in range(len(xs)):
-        if n == 0:
-            continue
         x = np.array(xs[:n+1])
         x_mean = np.mean(x)
         y = np.array(ys[:n+1])
