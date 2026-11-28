@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 8 problems · 0 labs · 6 math
+**15** solved · 9 problems · 0 labs · 6 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-11-22 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-28 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-11-22 | [solution](problems/0275-implement-stratified-train-test-split) |
+| [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-28 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 
 ## Math
 
